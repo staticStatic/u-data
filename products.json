@@ -8,7 +8,8 @@
     }],
     "intuition": [{
       "Alley-oop": true
-    }]
+    }],
+    "productOwner": "Neobii"
   },
   {
     "name": "u", 
@@ -16,12 +17,14 @@
     "lean": [{
       "problem": "I am not using enough linkage from repo to repo.", 
       "solution": "Create a place where all links to teams is easy to acces to copy and paste to improve linkage"
-    }]
+    }],
+    "productOwner": "Neobii"
   },
   {
     "name": "Acktueli",
     "repo": "https://github.com/LearnEverything/acktueli",
-    "description": "=== Acktueli ==="
+    "description": "=== Acktueli ===",
+    "productOwner": "Neobii"
   },
   {
     "name": "Shell",
@@ -29,30 +32,36 @@
     "lean": [{
       "problem": "In general story telling there's no way to turn to page 1337 to see if Harry Potter has the invisibility cloak or not.",
       "solution": "Make a database that can mantain state of various characters in a story."
-    }]
+    }],
+    "productOwner": "Neobii"
   },
   {
     "name": "Guide",
     "repo": "https://github.com/Shielkwamm/shielkwamm-guide",
-    "bigIdea": "What is the some boiler plate needed when creating a social network and what kind of social data could be considered 'slow-state'?"
+    "bigIdea": "What is the some boiler plate needed when creating a social network and what kind of social data could be considered 'slow-state'?",
+    "productOwner": "Neobii"
   },
   {
     "name": "theSituation",
     "repo": "https://github.com/Shielkwamm/SituationA",
-    "bigIdea": "{{ +%[zambia]/~ --> }}"
+    "bigIdea": "{{ +%[zambia]/~ --> }}",
+    "productOwner": "Neobii"
   },
   {
     "name": "Creative Work Flow",
     "repo": "https://github.com/Shielkwamm/SituationB",
-    "description": "Has various incomplete adobe animate and illustrator jsfl scripts and workflows designed to integrate into shielkwamm-show and shielkwamm.net"
+    "description": "Has various incomplete adobe animate and illustrator jsfl scripts and workflows designed to integrate into shielkwamm-show and shielkwamm.net",
+    "productOwner": "Neobii"
   },
   {
     "repo": "StoryProcess",
-    "notDocumented": true
+    "notDocumented": true,
+    "productOwner": "Neobii"
   },
   {
     "name": "Show",
     "repo": "https://github.com/Shielkwamm/shielkwamm-show",
-    "toolish": true
+    "toolish": true,
+    "productOwner": "Neobii"
   }
 ]
