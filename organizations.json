@@ -1,13 +1,16 @@
 {
   "organizations": [
     {
-      "login": "Shielkwamm"
+      "login": "Shielkwamm",
+      "culture": "https://guide.shielkwamm.com/"
     },
     {
-      "login": "LearnEverything"
+      "login": "LearnEverything",
+      "culture": "https://semver.org/"
     },
     {
-      "login": "staticStatic"
+      "login": "staticStatic",
+      "culture": "https://www.oreilly.com/library/view/running-lean-2nd/9781449321529/"
     }
   ]
 }
